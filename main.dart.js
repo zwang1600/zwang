@@ -64459,7 +64459,7 @@ A.a5U.prototype={
 $0(){return A.e_(this.a,!1).pt("/playground",t.X)},
 $S:0}
 A.a5V.prototype={
-$0(){return A.d1([$.lV().jh("open",["/assets/files/resume.pdf"])],t.z)},
+$0(){return A.d1([$.lV().jh("open",["assets/files/resume.pdf"])],t.z)},
 $S:0}
 A.me.prototype={
 ad(){return new A.Lc(B.l)}}
@@ -64493,7 +64493,7 @@ A.a7O.prototype={
 $0(){this.a.d=!0},
 $S:0}
 A.a7N.prototype={
-$0(){return $.lV().jh("open",["/assets/files/cityfruit-brandbook.pdf"])},
+$0(){return $.lV().jh("open",["assets/files/cityfruit-brandbook.pdf"])},
 $S:0}
 A.n1.prototype={
 ad(){return new A.N0(B.l)}}
@@ -64591,7 +64591,7 @@ A.adl.prototype={
 $3(a,b,c){return A.cT("images/xuberance-"+(b+1)+".png",null,null,null)},
 $S:136}
 A.adm.prototype={
-$0(){return $.lV().jh("open",["/assets/files/portfolio.pdf"])},
+$0(){return $.lV().jh("open",["assets/files/portfolio.pdf"])},
 $S:0}
 A.o0.prototype={
 ad(){return new A.Qn(null,null,B.l)}}
